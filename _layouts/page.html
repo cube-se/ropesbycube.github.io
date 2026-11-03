@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+  {% include head.html %} 
+  <!-- Body -->
+  <body class="">
+    <!-- Header -->
+    {% include header.html %}
+    <!-- Navbar -->
+    {% include navbar.html %}
+    <!-- Offcanvas -->
+    {% include offcanvas.html %}
+    <!-- Content -->
+    <main>
+      <section class="container my-2">
+        <div class="p-5 p-md-4 mb-4 rounded text-body-emphasis bg-body-tertiary">
+          {{ content }}
+        </div>
+        {% include footer.html %}
+      </section>
+    </main>
+</html>
+
+{% include script.html %}
