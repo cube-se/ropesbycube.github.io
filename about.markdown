@@ -1,18 +1,16 @@
 ---
 layout: page
-title: About
+title: About cube and the interest in ropes
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<div class="row my-2">
+    <div class="col-8">
+        <h5 class="border-bottom py-2">Let Me Introduce Myself</h5>
+        ss
+        <h5 class="border-bottom py-2">My Journey So Far</h5>
+        ss       
+    </div>
+    <div class="col-4">
+        <h6 class="border-bottom py-2">About me</h6>
+        ss
+    </div>
